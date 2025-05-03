@@ -1,0 +1,55 @@
+.index-page {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .welcome-section {
+    text-align: center;
+    margin-bottom: 50px;
+  }
+  
+  .greeting {
+    font-size: 3rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .intro {
+    font-size: 1.2rem;
+    color: #666;
+    margin-bottom: 30px;
+  }
+  
+  .explore-btn {
+    margin-top: 20px;
+  }
+  
+  .explore-link {
+    text-decoration: none;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 1rem;
+    transition: background-color 0.3s;
+  }
+  
+  .explore-link:hover {
+    background-color: #45a049;
+  }
+  
+  .highlights-section {
+    text-align: center;
+    margin-top: 40px;
+  }
+  
+  .highlights-section h2 {
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  .highlights-section p {
+    font-size: 1rem;
+    color: #666;
+  }
+  

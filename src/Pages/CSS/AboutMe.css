@@ -1,0 +1,35 @@
+.about-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .about-container h1 {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .about-content {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 30px;
+  }
+  
+  .about-text {
+    flex: 2;
+    font-size: 1.1rem;
+    color: #444;
+  }
+  
+  .about-image {
+    flex: 1;
+  }
+  
+  .about-image img {
+    width: 100%;
+    max-width: 200px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
